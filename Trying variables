@@ -1,0 +1,2 @@
+`var yay = true`
+`if (yay) {return true}`
